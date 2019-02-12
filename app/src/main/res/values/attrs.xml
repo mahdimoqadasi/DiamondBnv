@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DiamondBnv">
+        <attr name="db_radius" format="dimension" />
+        <attr name="db_diamond_margin" format="dimension" />
+        <attr name="db_shadow" format="dimension" />
+        <attr name="db_diamond_icon" format="reference" />
+        <attr name="db_left_icon" format="reference" />
+        <attr name="db_right_icon" format="reference" />
+        <attr name="db_icons_padding" format="dimension" />
+        <attr name="db_diamond_padding" format="dimension" />
+        <attr name="db_diamond_color" format="color" />
+        <attr name="db_frame_color" format="color" />
+    </declare-styleable>
+</resources>
