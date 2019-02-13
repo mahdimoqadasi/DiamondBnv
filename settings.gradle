@@ -1,1 +1,1 @@
-include ':demo', ':diamondbnv'
+include ':demo', ':lib'
